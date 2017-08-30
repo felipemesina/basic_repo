@@ -1,0 +1,14 @@
+1. Created a new repo on git hub called basic_repo
+2. Created a local repo called ‘AdvancedGit’
+3. Opened Terminal and used CD command to direct to appropiate directory. 
+4. Used the MK DIR command to create an html & txt file.
+5. Modified txt file by introducing some text.
+6. Initialized git.
+7. Added file.
+8. Committed.
+9. pushed. 
+10. modified my txt file again to include more txt.
+11. Added file to queue.
+12. Committed and included text to describe changes.
+13. Pushed again.
+14. Checked file on GitHub to see new changes. 
